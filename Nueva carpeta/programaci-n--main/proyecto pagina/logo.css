@@ -1,0 +1,82 @@
+body{
+
+    background-color: rgb(255, 255, 255);
+}
+#inicio{
+    position: absolute;
+left: 300px;
+top: 50px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#escudo{
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#himno{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#bandera{
+    position: absolute;
+    left: 600px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#incio{
+    
+    position: absolute;
+    left: 600px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#proyecto{
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#induccion{
+
+    position: absolute;
+    left: 800px;
+    top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#texto{
+    position: absolute;
+    left: 500px;
+    top: 70px;
+    font-family: 'Ubuntu', sans-serif;
+}   
+#img{
+    position: absolute;
+    left: 500px;
+    top: 150px;
+}
+#pregunta{
+    position: absolute;
+    left: 500px;
+    top: 500px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#respuesta{
+    position: absolute;
+    left: 50px;
+    top: 600px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#respuesta2
+{
+    position: absolute;
+    left: 50px;
+    top: 700px;
+    font-family: 'Ubuntu', sans-serif;
+}
